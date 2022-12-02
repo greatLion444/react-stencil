@@ -1,92 +1,107 @@
 [
   {
-    "name": "Chocolate Chip Cookies",
-    "description": "Four classic chocolate chip cookies",
+    "name": "Fire Red 4s",
+    "description": "Jordan 4 in Red, White, and Grey",
     "price": 7.99,
-    "image": "images/anika.png"
+    "image": "images/FROG.jpeg",
+    "type": "shoes"
   },
   {
-    "name": "Matcha Mille Crepe Cake",
+    "name": "HPY Dunks",
     "description": "Layers of matcha crepe and matcha cream filling, topped with strawberries",
     "price": 4.99,
-    "image": "images/aubrey.png"
+    "image": "images/dunks.jpeg",
+    "type": "shoes"
   },
   {
     "name": "Egg Custard Bun",
     "description": "A fluffy steamed bun with a savory egg filling",
     "price": 2.99,
-    "image": "images/connie.png"
+    "image": "images/CG.jpeg",
+    "type": "shoes"
   },
   {
     "name": "Steamed Taro Buns",
     "description": "Two soft steamed buns filled with gooey purple taro filling",
     "price": 5.99,
-    "image": "images/dylan.png"
+    "image": "images/AcakageCoat.jpeg", 
+    "type": "Coat"
   },
   {
     "name": "Chocolate Fudge Brownie",
     "description": "A rich fudge brownie drizzled with chocolate ganache",
     "price": 3.99,
-    "image": "images/isaac.png"
+    "image": "images/PatchPants.jpeg",
+    "type": "Pants"
   },
   {
     "name": "Macarons",
     "description": "A box of three macarons in assorted flavors",
     "price": 4.99,
-    "image": "images/jeff.png"
+    "image": "images/TravisDunk.jpeg",
+    "type": "shoes"
   },
   {
     "name": "Multigrain Bread",
     "description": "A loaf of fresh-baked multigrain bread",
     "price": 4.99,
-    "image": "images/jenny.png"
+    "image": "images/PoloPants.jpeg",
+    "type": "Pants"
   },
   {
     "name": "Croissant",
     "description": "A classic butter croissant with a flaky crust",
     "price": 2.99,
-    "image": "images/jessie.png"
+    "image": "images/MCoat.jpeg",
+    "type": "Coat"
   },
   {
     "name": "Toast with Butter",
     "description": "A slice of toast with a pat of butter",
     "price": 1.99,
-    "image": "images/kelly.png"
+    "image": "images/Infared.jpeg",
+    "type": "shoes"
   },
   {
     "name": "Tiramisu",
     "description": "A classic tiramisu with layers of coffee-soaked ladyfingers and mascarpone cream",
     "price": 3.99,
-    "image": "images/lauren.png"
+    "image": "images/whiteCoat.jpeg",
+    "type": "Coat"
   },
   {
     "name": "Egg Tart",
     "description": "A flaky pastry shell filled with a sweet egg custard",
     "price": 2.99,
-    "image": "images/melissa.png"
+    "image": "images/tommyPants.jpeg",
+    "type": "Pants"
   },
   {
     "name": "Everything Bagel",
     "description": "A toasted bagel with sesame seeds, poppy seeds, and dried onion",
     "price": 2.99,
-    "image": "images/miku.png"
+    "image": "images/NikeCoat.jpeg",
+    "type": "Coat"
   },
   {
     "name": "Gingerbread Man",
     "description": "A soft gingerbread cookie with a sweet icing glaze",
     "price": 2.99,
-    "image": "images/nick.png"
+    "image": "images/KappaPants.jpeg", 
+    "type": "Pants"
   },
   {
     "name": "Cheesecake",
     "description": "A slice of classic New York cheesecake topped with strawberry",
     "price": 3.99,
-    "image": "images/sunny.png"
+    "image": "images/FendrPants.jpeg", 
+    "type": "Pants"
   },
   {
     "name": "Cream Puff",
     "description": "Light and airy pâte à choux filled with sweet whipped cream",
     "price": 2.99,
-    "image": "images/tongyu.png"
+    "image": "images/Trav1Shoes.jpeg", 
+    "type": "shoes"
   }
 ]
