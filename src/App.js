@@ -29,6 +29,7 @@ function App() {
   function LessThan(price){
     let lessList = [...purchase]
     let shownList = lessList.filter(x => x.price < price)
+
     setItems(shownList)
 }
 
@@ -81,7 +82,7 @@ function App() {
 
             <div id = "optionSelect">
               {/* <label for="Priced">From Prices:</label> */}
-              <input type="number" id="lowPrice" name="Priced" min="0" max="100"></input>
+              <input type="number" id="lowPrice" name="Priced" min="0" max="1000" step="10"></input>
               <button id = "priceButt" onClick ={() => LessThan(document.querySelector('input').value)}> Filter Price </button>
             </div>
             <div class = "cart">
